@@ -1,0 +1,33 @@
+#+TITLE: Berryz工房楽曲大賞2004-2014
+#+AUTHOR: Ackeyx
+#+DATE: 2014-03
+#+HTML_HEAD: <link id="generic-css-dark"  rel="stylesheet" type="text/css" href="../css/generic-dark.css"/>
+#+HTML_HEAD: <link id="generic-css-light" rel="stylesheet" type="text/css" href="../css/generic-light.css"/>
+#+HTML_HEAD: <script type="text/javascript" src="../js/generic-css.js"></script>
+#+LANGUAGE: ja
+
+[[http://www.esrp2.jp/bkma/2004-2014/][file:../media/bkma2004-2014-banner.gif]]
+
+* 楽曲部門
+
+1. 告白の噴水広場 3.5pts
+2. ギャグ100回分愛してください 2.5pts
+3. スッペシャル ジェネレ～ション 1.5pts
+4. MOON POWER 1.5pts
+5. 愛には 愛でしょ 1pts
+
+* MV部門
+
+1. 蝉 3pts
+2. ありがとう! おともだち。 2.5pts
+3. ジンギスカン 0.5pts
+
+* アルバム部門
+
+1. 1st 超ベリーズ 3pts
+2. 第②成長記 2.5pts
+3. 4th 愛のなんちゃら指数 0.5pts
+
+* 推しメン部門
+
+1. 嗣永桃子 ∞pts

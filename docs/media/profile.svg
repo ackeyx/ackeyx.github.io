@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <title>Ackeyx-Icon-060px</title>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="58" width="58" y="1" x="1" stroke="#333333" fill="#dddd00" stroke-width="2"/>
+  <path fill="#dd0000" stroke="#333333" d="m1,1l58,58l0,-58l-58,58l0,-58z" id="svg_2" stroke-width="2"/>
+  <circle id="svg_3" r="29" cy="30" cx="30" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#333333" fill="none" stroke-width="2"/>
+ </g>
+</svg>

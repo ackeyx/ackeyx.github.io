@@ -1,0 +1,58 @@
+#+TITLE: 第16回ハロプロ楽曲大賞'17投票
+#+AUTHOR: Ackeyx
+#+DATE: 2017-12-11
+# 21:30
+#+HTML_HEAD: <link id="generic-css-dark"  rel="stylesheet" type="text/css" href="../css/generic-dark.css"/>
+#+HTML_HEAD: <link id="generic-css-light" rel="stylesheet" type="text/css" href="../css/generic-light.css"/>
+#+HTML_HEAD: <script type="text/javascript" src="../js/generic-css.js"></script>
+#+LANGUAGE: ja
+#+OPTIONS: num:nil
+
+* 0. イントロ
+
+[[http://www.esrp2.jp/hpma/2017/][file:../media/hpma2017-banner.png]]
+
+『第16回ハロプロ楽曲大賞'17』に投票。
+
+* 1. 楽曲部門
+
+各グループごとに良かった楽曲。
+
+- モーニング娘。
+	- BRAND NEW MORNING
+	- ジェラシー ジェラシー
+- アンジュルム
+	- 愛さえあればなんにもいらない
+	- ナミダイロノケツイ
+- つばきファクトリー
+	- 初恋サンライズ
+	- Just Try!
+- ハロプロ研修生
+	- ありがた迷惑物語
+
+この中から順位（5位まで）とポイント（合計10ポイント）をつける。
+
+|順位|楽曲                        |pt |
+|----+----------------------------+---|
+|1   |ジェラシー ジェラシー       |3.0|
+|2   |BRAND NEW MORNING           |2.0|
+|2   |初恋サンライズ              |2.0|
+|2   |ありがた迷惑物語            |2.0|
+|5   |愛さえあればなんにもいらない|1.0|
+|----+----------------------------+---|
+
+* 2. MV部門
+
+|順位|MV                      |pt |
+|----+------------------------+---|
+|1   |ジェラシー ジェラシー   |3.0|
+|2   |邪魔しないで Here We Go!|2.5|
+|3   |ナミダイロノケツイ      |0.5|
+|----+------------------------+---|
+
+* 3. 推しメン部門
+
+|順位|メンバー|所属       |
+|----+--------+-----------|
+|1   |宮本佳林|Juice=Juice|
+|----+--------+-----------|
