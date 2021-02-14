@@ -1,0 +1,78 @@
+#+TITLE: 第14回ハロプロ楽曲大賞'15投票
+#+AUTHOR: Ackeyx
+#+DATE: 2015-12
+#+HTML_HEAD: <link id="generic-css-dark"  rel="stylesheet" type="text/css" href="../css/generic-dark.css"/>
+#+HTML_HEAD: <link id="generic-css-light" rel="stylesheet" type="text/css" href="../css/generic-light.css"/>
+#+HTML_HEAD: <script type="text/javascript" src="../js/generic-css.js"></script>
+#+LANGUAGE: ja
+#+OPTIONS: num:nil
+
+* 0.イントロ
+
+[[http://www.esrp2.jp/hpma/2015/][file:../media/hpma2015-banner.jpg]]
+
+今年もやって来ました『ハロプロ楽曲大賞』。\\
+それでは部門ごとに考えていきましょう。
+
+* 1.楽曲部門
+
+まずは各グループごとに良い楽曲をあげてみる。
+
+- モーニング娘。
+	- 青春小僧が泣いている
+	- 夕暮れは雨上がり
+- アンジュルム
+	- 七転び八起き
+	- 臥薪嘗胆
+	- 出すぎた杭は打たれない
+	- ドンデンガエシ
+- Juice=Juice
+	- CHOICE & CHANCE
+	- 生まれたてのBaby Love
+	- GIRLS BE AMBITIOUS
+	- 愛のダイビング
+	- チクタク 私の旬
+	- 未来へ、さあ走り出せ!
+	- 続いていくSTORY
+- こぶしファクトリー
+	- 念には念 (念入りVer.)
+
+この14曲から順位とポイントをつけると…。
+
+| 順位 | 楽曲                   |   pt |
+|------+------------------------+------|
+|    1 | 七転び八起き           |  3.0 |
+|    2 | ドンデンガエシ         |  3.0 |
+|    3 | 出すぎた杭は打たれない |  2.5 |
+|    4 | 夕暮れは雨上がり       |  1.0 |
+|    5 | チクタク 私の旬        |  0.5 |
+
+* 2.MV部門
+
+まずは各グループごとに良いMVをあげてみる。
+
+- モーニング娘。
+	- 青春小僧が泣いている
+	- 青春小僧が泣いている (Another Ver.)
+	- 夕暮れは雨上がり
+- Juice=Juice
+	- CHOICE & CHANCE
+
+この4曲から順位とポイントをつけると…。
+
+| 順位 | MV                                  |   pt |
+|------+-------------------------------------+------|
+|    1 | 青春小僧が泣いている (Another Ver.) |  3.5 |
+|    2 | 夕暮れは雨上がり                    |  1.5 |
+|    3 | 青春小僧が泣いている                |  1.0 |
+
+* 3.推しメン部門
+
+| 順位 | メンバー | 所属        |
+|------+----------+-------------|
+|    1 | 宮本佳林 | Juice=Juice |
+
+* 4.アウトロ
+
+これで投票行ってきます♪\\
+（選考理由は割愛）
